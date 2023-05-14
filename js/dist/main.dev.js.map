@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["$","document","ready","slideDown"],"mappings":";;AAAAA,CAAC,CAACC,QAAD,CAAD,CAAYC,KAAZ,CAAkB,YAAY;AAC1BF,EAAAA,CAAC,CAAC,YAAD,CAAD,CAAgBG,SAAhB,CAA0B,IAA1B;AACD,CAFH","sourcesContent":["$(document).ready(function () {\r\n    $(\".container\").slideDown(3000);\r\n  })\r\n  "],"file":"main.dev.js"}
